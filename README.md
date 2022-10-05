@@ -6,4 +6,4 @@ Various behaviours implemented are:
 3. Homing
 4. Obstacle Avoidance
 5. Consensus
-6. Mutual collision avoidance
+6. Mutual collision avoidance(To Do)
